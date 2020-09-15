@@ -1,0 +1,64 @@
+.caja1{
+    height: 70px;
+    width: 70px;
+    background-color: darkgreen;
+    display: inline-block;
+}
+
+.caja2{
+    height: 70px;
+    width: 70px;
+    background-color: darkblue;
+    display: inline-block;
+}
+
+.caja3{
+    height: 150px;
+    width: 663px;
+    background-color: darkgray;
+    display: inline-block;
+}
+
+.caja4{
+    height: 150px;
+    width: 663px;
+    background-color: yellow;
+    display: inline-block;
+}
+
+.caja5{
+    height: 120px;
+    width: 650px;
+    background-color: darkgray;
+    display: inline-block;
+    position: relative;
+    left: 120px;    
+
+}
+
+.caja6{
+    height: 120px;
+    width: 570px;
+    background-color: yellow;
+    display: inline-block;
+    position: relative;
+    right:  5px;
+}
+
+.caja51{
+    height: 50px;
+    width: 60px;
+    background-color: pink;
+    position: absolute; 
+    bottom: 0px;  
+
+}
+
+.caja61{
+    height: 50px;
+    width: 60px;
+    background-color: pink;
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+}
